@@ -6,10 +6,6 @@
 
 ## &#x1f4c8; My GitHub Stats🎯
 
-<h3 align="left">Profile Views: 🧐</h3>
-  
-![Profile views](https://gpvc.arturio.dev/danishsjjd)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danishsjjd&theme=chartreuse-dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danishsjjd&theme=default" />
@@ -32,26 +28,6 @@
 
 <br />
 <br />
-
-<!-- <h2> Connect with me</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Images/coding_2.gif">
-  <source media="(prefers-color-scheme: light)" srcset="/Images/coding_3.gif" />
-  <img width="50%" align="right" alt="Github Header" src="Images/coding_2.gif" />
-</picture>
-
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/danishsjjd)
-<br><br>
- [<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />](http://www.twitter.com/danishsjjd)
-<br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/17766869/danishsjjd)
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br> -->
 
 <div width = 100%>
 <h2 align='center' dir="auto" width= 100%>Feel free to open any pull request and support me by ⭐my repositories</h2>
